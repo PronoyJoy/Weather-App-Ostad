@@ -1,0 +1,33 @@
+1 . Project Setup  - Node js must be installed in pc
+   - Create a new React project using Vite - npm create vite@latest appname
+   - Install dependencies - npm install
+   - Start the dev server - npm run dev
+   - Project Structure
+  
+
+npm	    📦 Downloads and manages packages
+Vite	⚡ Serves and optimizes code for the browser (using what npm downloaded)
+They work together, but npm ≠ Vite and Vite ≠ npm.
+
+NPM is a package manager,
+Vite is a development server and build tool.
+* Vite uses npm packages, optimizes them on-the-fly, 
+and serves them super fast to your browser.
+
+2. Creating User Interface 
+
+
+3. Api ---weather api ---api --- current weather data 
+
+
+
+4. Api call --After call api --data fecth kora !!
+
+use state , use effect , use ref 
+
+
+
+
+
+
+
